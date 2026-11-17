@@ -2,9 +2,13 @@
 
 Pint Patrol: a React Native brewery discovery app using Open Brewery DB.
 
+## Project proposal
+
+See [PintPatrolProposal.md](PintPatrolProposal.md) for the Phase 1 proposal, including objectives, target users, user stories, planned screens, technical plan, and development timeline.
+
 ## API
 
-[Open Brewery DB](https://www.openbrewerydb.org/) provides the live brewery data. The planned app will let users search by country and city, browse matching breweries, and view a brewery's details.
+[Open Brewery DB](https://www.openbrewerydb.org/) provides the live brewery data. The planned app will let users search by country, state/province/region, and city, browse matching breweries, and view a brewery's details. A "Random Brewery" button will skip the search and open a surprise brewery's details directly.
 
 - [API documentation](https://www.openbrewerydb.org/documentation)
 - Base URL: `https://api.openbrewerydb.org/v1`
