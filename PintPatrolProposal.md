@@ -144,6 +144,7 @@ The application will use:
 
 - **useState** for user input and screen state management
 - **useEffect** for API requests and lifecycle events
+- **useReducer** where state becomes more complex, such as coordinating the linked search filters
 - A custom **useApiData** hook to encapsulate API request logic, loading, and error states
 - **FlatList** for efficient data presentation
 - **Axios** with **async/await** for API communication
