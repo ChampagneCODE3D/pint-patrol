@@ -261,3 +261,9 @@ The repository already contains:
 - README documentation
 - Initial Expo project setup
 - A working API connectivity test using Open Brewery DB
+
+---
+
+## Authorship and AI Use Disclosure
+
+This proposal was authored by Jordan Champagne. AI tools (GitHub Copilot and Microsoft Copilot) were used to assist with drafting, formatting, and editing the document and wireframes. All design decisions, feature scope, API selection, and final content were reviewed, directed, and approved by the author.
